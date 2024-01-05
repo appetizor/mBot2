@@ -2,8 +2,44 @@
 程式版本
 1. 俯仰角
 2. 橫滾角
-3. 搖晃度
+3. 順時計角度
+4. 搖晃度
 
 按下A鍵停止程式
 按B鍵開始程式
 數值
+
+超音波
+小小一號
+
+偵測範圍
+距離
+偵測物體
+
+## quadRGB
+姓名
+程式版本
+
+按下A鍵停止程式
+按B鍵開始程式
+
+左1
+左2
+右1
+右2
+
+red
+orange
+yellow
+green
+cyan
+blue
+puple
+black
+
+
+Google 翻譯
+https://translate.google.com/?hl=zh-TW
+
+注音，速成，倉頡輸入速查
+https://www.cns11643.gov.tw/searchQ.jsp?ID=0&SN=&lang=tw
